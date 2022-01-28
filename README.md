@@ -1,1 +1,1 @@
-# task-1JS
+https://github.com/AnaraBoronbaeva/task-1JS
